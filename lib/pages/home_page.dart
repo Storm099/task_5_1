@@ -11,7 +11,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
+      backgroundColor: Colors.purple,
       body: Container(
         padding: EdgeInsets.only(top: 20),
         child: Row(
